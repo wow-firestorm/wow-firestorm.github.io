@@ -1,0 +1,18 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+section {
+  width: 100%;
+  padding-top: 100px;
+  display: table;
+  margin: 0;
+  max-width: none;
+  height: 100vh;
+}
+#top {
+    position: relative;
+    z-index: 9999;
+}

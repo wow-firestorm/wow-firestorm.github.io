@@ -1,0 +1,11 @@
+# Site settings
+title: firestorm
+email: hello@firestorm.wow
+description: >
+    A World of Warcraft addon manager for OS X.
+    Search, download, update, delete, and backup your WoW addons with ease.
+baseurl: ""
+url: "http://firestorm.wow"
+
+# Build settings
+markdown: kramdown
